@@ -53,7 +53,6 @@
         ```
         padding: 20px 0; /* 상하 20px, 좌우 0px */
         ```
-}
     * 개별 속성
         * top, right, bottom, left
 
