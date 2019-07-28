@@ -1,4 +1,4 @@
-# Chapter 02. HTML
+# Chapter 02. HTML 입문
 #웹 #프론트엔드 #HTML
 - - - -
 ## 1. HTML 문법의 기본 형태

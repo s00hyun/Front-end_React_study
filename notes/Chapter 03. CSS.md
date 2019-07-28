@@ -1,4 +1,4 @@
-# Chapter 03. CSS
+# Chapter 03. CSS 입문
 #웹 #프론트엔드 #CSS
 ---
 ## 1. CSS 문법 개요
