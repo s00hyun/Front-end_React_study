@@ -68,7 +68,7 @@
     * `name`
         * author, description 등 문서 레벨의 메타데이터의 이름을 정의함
         * `name=viewport`: 반응형
-            *`width=device-width`: 디바이스의 가로 길이에 최적화
+            * `width=device-width`: 디바이스의 가로 길이에 최적화
             * `initial-scale=1.0`: 확대/축소에 대해 1배로 시작
 * `title`
 * `style`
